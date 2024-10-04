@@ -17,7 +17,7 @@
 
 
 ## CREATE YOUR FORK
-<a href="https://github.com/DRKALPHA/THARU-MD/forks">
+<a href="https://github.com/DRKALPHA/THARU-MD/fork">
   <img title="𝐓𝐇𝐀𝐑𝐔-𝐌𝐃" src="https://img.shields.io/badge/FORK-𝐓𝐇𝐀𝐑𝐔-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
