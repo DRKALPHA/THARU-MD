@@ -51,7 +51,7 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 ## 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
 <a href="https://github.com/DRKALPHA">
-  <img src="https://github.com/DRKALPHA.png" width="200" height="200" alt="DRK-S-TEN"/>
+  <img src="<a target="_blank" href="https://www.imgtr.net/fDHMjwlEz7lGwwP"><img  src="https://www.imgtr.net/ib/2gfCKgDayewhwWH_1728020336.jpg" alt="1000039891.jpg"/></a>" width="200" height="200" alt="DRK-DEVELOPER"/>
 </a>
 <p align="center"><strong>DRK-DEVELOPER</strong></p>
 
