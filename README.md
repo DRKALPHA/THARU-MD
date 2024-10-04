@@ -4,13 +4,6 @@
   </a>
 </p>
 
-!<a target="_blank" href="https://www.imgtr.net/en/LnJsCASUkzK6DmA"><img src="https://www.imgtr.net/ib/cyRQwDHMf3FAqJ1_1728004702.jpg" alt="1000039732.jpg"/></a>
-<p align="center">
-<a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
-<a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ## DEVELOPED BY 𝐃𝐑𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
