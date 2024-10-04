@@ -50,7 +50,7 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
-  <img src="https://github.com/DRK-DEVELOPER.png" width="200" height="200" alt="DRK-DEVELOPER"/>
+  <img src="https://github.com/DRKALPHA.png" width="200" height="200" alt="DRK-DEVELOPER"/>
 </a>
 <p align="center"><strong>DRK-DEVELOPER</strong></p>
 
