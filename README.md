@@ -4,7 +4,7 @@
   </a>
 </p>
 
-![KLAUS-MD ](https://www.imgtr.net/ib/cyRQwDHMf3FAqJ1_1728004702.jpg)
+!(https://www.imgtr.net/ib/cyRQwDHMf3FAqJ1_1728004702.jpg)
 <p align="center">
 <a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
 <a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
