@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐊𝐋𝐀𝐔𝐒-𝐌𝐃;WHATSAPP+☑️++BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐓𝐇𝐀𝐑𝐔-𝐌𝐃;WHATSAPP+☑️++BOT;DEVELOPED+BY+𝐃𝐑𝐊-𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,14 +11,14 @@
 <a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## DEVELOPED BY 𝙎-𝙏𝞢𝞜 
+## DEVELOPED BY 𝐃𝐑𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## CREATE YOUR FORK
 <a href="https://github.com/DRK-S-TEN/KLAUS-MD-/fork">
-  <img title="𝐊𝐋𝐀𝐔𝐒-𝐌𝐃" src="https://img.shields.io/badge/FORK-𝐊𝐋𝐀𝐔𝐒-red?color=red&style=for-the-badge&logo=stackshare">
+  <img title="𝐓𝐇𝐀𝐑𝐔-𝐌𝐃" src="https://img.shields.io/badge/FORK-𝐊𝐋𝐀𝐔𝐒-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -70,7 +70,7 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 <a href="https://github.com/DRK-S-TEN">
   <img src="https://github.com/DRK-S-TEN.png" width="200" height="200" alt="DRK-S-TEN"/>
 </a>
-<p align="center"><strong>DRK-S-TEN</strong></p>
+<p align="center"><strong>DRK-DEVELOPER</strong></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
