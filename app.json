@@ -1,11 +1,11 @@
 {
-  "name": "KLAUS-MD ",
+  "name": "THARU-MD ",
   "description": " Whatsapp bot.",
   "logo": "https://i.imgur.com/iZhcpEQ.jpeg",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/DRK-S-TEN/KLAUS-MD-",
+  "repository": "https://github.com/DRKALPHA/THARU-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
