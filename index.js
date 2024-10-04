@@ -70,13 +70,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 ❝𝐊𝐋𝐀𝐔𝐒-𝐌𝐃❞ using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 ❝𝐓𝐇𝐀𝐑𝐔-𝐌𝐃❞ using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["KLAUS-MD", "safari", "3.3"],
+            browser: ["THARU-MD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -95,8 +95,8 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("❝𝐊𝐋𝐀𝐔𝐒-𝐌𝐃❞ ᴄᴏɴɴᴇᴄᴛᴇᴅ"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `ʜɪ ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴄʜᴏᴏꜱɪɴɢ ❝𝐊𝐋𝐀𝐔𝐒-𝐌𝐃❞ ᴀꜱ ʏᴏᴜʀ ʙᴏᴛ ɪ ᴡɪꜱʜ ʏᴏᴜ ᴛʜᴇ ʙᴇꜱᴛ.` });
+                    console.log(chalk.green("❝𝐓𝐇𝐀𝐑𝐔-𝐌𝐃❞ ᴄᴏɴɴᴇᴄᴛᴇᴅ"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `ʜɪ ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴄʜᴏᴏꜱɪɴɢ ❝𝐓𝐇𝐀𝐑𝐔-𝐌𝐃❞ ᴀꜱ ʏᴏᴜʀ ʙᴏᴛ ɪ ᴡɪꜱʜ ʏᴏᴜ ᴛʜᴇ ʙᴇꜱᴛ.` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
@@ -156,7 +156,7 @@ async function init() {
 init();
 
 app.get('/', (req, res) => {
-    res.send('❝𝐊𝐋𝐀𝐔𝐒-𝐌𝐃❞ ONLINE ☑️');
+    res.send('❝𝐓𝐇𝐀𝐑𝐔-𝐌𝐃❞ ONLINE ☑️');
 });
 
 app.listen(PORT, () => {
