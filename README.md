@@ -34,23 +34,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-###  🐛𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒👌
-
-<div align="center">
-  <!-- Badges for deployment -->
-  <a href="https://youtu.be/AZg7UMMy6q8?si=_YyYGgUS1AL9oR-B" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Deployment" />
-  </a>
-  <a href="https://youtu.be/4b1HNuaQx54?si=CSRoq27E8nS0AeNA" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-Codespace-blue?style=for-the-badge&logo=github" alt="Codespace Deployment" />
-  </a>
-  <a href="https://youtu.be/yH2KCK0AD4I?si=F5tjgBpK4ZQO0F-x" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-Replit-blue?style=for-the-badge&logo=replit" alt="Replit Deployment" />
-  </a>
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
 ## ⚠️ WARNING ⚠️
 
 I am not responsible for any damage caused by this bot. Use this bot at your own risk. It is developed for educational purposes only. Any malicious use is strictly discouraged.
@@ -67,8 +50,8 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
-<a href="https://github.com/DRK-S-TEN">
-  <img src="https://github.com/DRK-S-TEN.png" width="200" height="200" alt="DRK-S-TEN"/>
+<a href="https://github.com/DRKALPHA">
+  <img src="https://github.com/DRKALPHA.png" width="200" height="200" alt="DRK-S-TEN"/>
 </a>
 <p align="center"><strong>DRK-DEVELOPER</strong></p>
 
